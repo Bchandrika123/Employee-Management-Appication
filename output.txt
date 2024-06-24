@@ -1,0 +1,217 @@
+java -cp /tmp/hIebZlddqK/EmployeeManagement
+
+*********Welcome to the Employee Management System**********
+
+1). Add Employee to the DataBase
+2). Search for Employee
+3). Edit Employee details
+4). Delete Employee Details
+5). Display all Employees working in this company
+6). EXIT
+
+Enter your choice : 
+1
+
+Enter the following details to ADD list:
+
+Enter ID :
+477869
+Enter Name :
+Ram
+Enter Salary :
+50000
+Enter Contact No :
+8466576732
+Enter Email-ID :
+ram542@gmail.com
+
+--------------Employee List---------------
+
+ID        Name           salary    contact-no          Email-Id  
+477869Ram                 50000.0   8466576732     ram542@gmail.com
+
+*********Welcome to the Employee Management System**********
+
+1). Add Employee to the DataBase
+2). Search for Employee
+3). Edit Employee details
+4). Delete Employee Details
+5). Display all Employees working in this company
+6). EXIT
+
+Enter your choice : 
+1
+
+Enter the following details to ADD list:
+
+Enter ID :
+548229
+Enter Name :
+Somu
+Enter Salary :
+75000
+Enter Contact No :
+9678253481
+Enter Email-ID :
+somu983@gmail.com
+
+--------------Employee List---------------
+
+ID        Name           salary    contact-no          Email-Id  
+477869Ram                 50000.0   8466576732     ram542@gmail.com
+548229Somu                75000.0   9678253481     somu983@gmail.com
+
+*********Welcome to the Employee Management System**********
+
+1). Add Employee to the DataBase
+2). Search for Employee
+3). Edit Employee details
+4). Delete Employee Details
+5). Display all Employees working in this company
+6). EXIT
+
+Enter your choice : 
+1
+
+Enter the following details to ADD list:
+
+Enter ID :
+567489
+Enter Name :
+Sitalakshmi
+Enter Salary :
+60000
+Enter Contact No :
+8926484787
+Enter Email-ID :
+sitalakshmi2@gmail.com
+
+--------------Employee List---------------
+
+ID        Name           salary    contact-no          Email-Id  
+477869   Ram             50000.0   8466576732     ram542@gmail.com
+548229   Somu            75000.0   9678253481     somu983@gmail.com
+567489   Sitalakshmi     60000.0   8926484787     sitalakshmi2@gmail.com
+
+*********Welcome to the Employee Management System**********
+
+1). Add Employee to the DataBase
+2). Search for Employee
+3). Edit Employee details
+4). Delete Employee Details
+5). Display all Employees working in this company
+6). EXIT
+
+Enter your choice : 
+2
+Enter the Employee ID to search :
+548229
+
+Employee Details :
+ID: 548229
+Name: Somu
+Salary: 75000.0
+Contact No: 9678253481
+Email-id: somu983@gmail.com
+
+
+*********Welcome to the Employee Management System**********
+
+1). Add Employee to the DataBase
+2). Search for Employee
+3). Edit Employee details
+4). Delete Employee Details
+5). Display all Employees working in this company
+6). EXIT
+
+Enter your choice : 
+3
+
+Enter the Employee ID to EDIT the details
+477869
+
+EDIT Employee Details :
+1). Employee ID
+2). Name
+3). Salary
+4). Contact No.
+5). Email-ID
+6). GO BACK
+
+Enter your choice : 
+4
+Enter new Employee Contact No. :
+7902874853
+
+Employee Details :
+ID: 477869
+Name: Ramu
+Salary: 50000.0
+Contact No: 7902874853
+Email-id: ram542@gmail.com
+
+
+EDIT Employee Details :
+1). Employee ID
+2). Name
+3). Salary
+4). Contact No.
+5). Email-ID
+6). GO BACK
+
+Enter your choice : 
+2
+Enter new Employee Name:
+Ramu
+Employee Details :
+ID: 477869
+Name: Ramu
+Salary: 50000.0
+Contact No: 7902874853
+Email-id: ram542@gmail.com
+
+
+EDIT Employee Details :
+1). Employee ID
+2). Name
+3). Salary
+4). Contact No.
+5). Email-ID
+6). GO BACK
+
+Enter your choice : 
+6
+
+*********Welcome to the Employee Management System**********
+
+1). Add Employee to the DataBase
+2). Search for Employee
+3). Edit Employee details
+4). Delete Employee Details
+5). Display all Employees working in this company
+6). EXIT
+
+Enter your choice : 
+5
+
+--------------Employee List---------------
+
+ID        Name           salary    contact-no          Email-Id  
+477869 Ramu              50000.0   7902874853     ram542@gmail.com
+548229 Somu              75000.0   9678253481     somu983@gmail.com
+567489 Sitalakshmi       60000.0   8926484787     sitalakshmi2@gmail.com
+
+*********Welcome to the Employee Management System**********
+
+1). Add Employee to the DataBase
+2). Search for Employee
+3). Edit Employee details
+4). Delete Employee Details
+5). Display all Employees working in this company
+6). EXIT
+
+Enter your choice : 
+6
+EXIT
+
+=== Code Execution Successful ===
